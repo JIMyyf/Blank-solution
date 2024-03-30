@@ -1,0 +1,16 @@
+{
+    "iis.configDir": "",
+    "cmsis-csolution.actions": [
+        {
+            "path": "Blank solution.csolution.yml",
+            "target": "STM32F103RC",
+            "config": {
+                "run": "Flash Device"
+            }
+        }
+    ],
+    "files.associations": {
+        "tim.h": "c",
+        "stm32f10x.h": "c"
+    }
+}
